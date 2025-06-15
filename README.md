@@ -1,12 +1,14 @@
-# React + Vite
+The above project is the simple Calculator applkication created using React js to understand and learn the react components, props passing in react and state management in react. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The above application is beginner friendly for beginners to learn React js practically.
 
-Currently, two official plugins are available:
+Steps :
+1. Clone the repository
+2. Extract the folder if you are downloading the repo not cloning it
+3. Open the terminal
+4. Enter npm i
+5. then, npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Boom, you application is ready
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Go through the code structure throughly, and HAPPY LEARNING.................
