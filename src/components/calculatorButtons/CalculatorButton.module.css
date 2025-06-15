@@ -1,0 +1,11 @@
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.calButton {
+  height: 50px;
+  width: 30%;
+}
